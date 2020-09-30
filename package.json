@@ -1,6 +1,6 @@
 {
   "name": "versionme",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
