@@ -41,8 +41,8 @@
   "author": "Evan Hsu <evanhsu@gmail.com>",
   "auto": {
     "plugins": [
-      "npm"
+      "all-contributors"
     ],
-    "onlyPublishWithReleaseLabel": true
+    "onlyPublishWithReleaseLabel": false
   }
 }
