@@ -15,6 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "release": "auto shipit",
     "version": "npm version `auto version` -m 'Bump version to: %s [skip ci]'"
   },
   "eslintConfig": {
