@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors"
+  ],
+  "owner": "evanhsu",
+  "repo": "versionme",
+  "name": "Evan Hsu",
+  "email": "evanhsu@gmail.com",
+  "onlyPublishWithReleaseLabel": true
+}

@@ -30,5 +30,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@auto-it/all-contributors": "^9.53.1",
+    "auto": "^9.53.1"
+  },
+  "repository": "evanhsu/versionme",
+  "author": "Evan Hsu <evanhsu@gmail.com>",
+  "auto": {
+    "plugins": [
+      "npm"
+    ],
+    "onlyPublishWithReleaseLabel": true
   }
 }
