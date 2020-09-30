@@ -2,9 +2,9 @@
   "plugins": [
     "all-contributors"
   ],
-  "owner": "evanhsu",
+  "owner": "notevanhsu",
   "repo": "versionme",
   "name": "Evan Hsu",
-  "email": "evanhsu@gmail.com",
-  "onlyPublishWithReleaseLabel": true
+  "email": "notevanhsu@gmail.com",
+  "onlyPublishWithReleaseLabel": false
 }
