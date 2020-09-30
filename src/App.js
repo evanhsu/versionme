@@ -10,6 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           This is my contribution, which gets me added to the contributors list.
+          Still want to get that recognition...
         </p>
         <a
           className="App-link"
