@@ -9,6 +9,17 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "evanhsu",
+      "name": "Evan Hsu",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/189640?v=4",
+      "profile": "https://github.com/evanhsu",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
   "contributorsPerLine": 7
 }
