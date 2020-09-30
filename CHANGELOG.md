@@ -2,6 +2,25 @@
 
 #### ⚠️ Pushed to `master`
 
+- new content ([@evanhsu](https://github.com/evanhsu))
+- bumped version ([@evanhsu](https://github.com/evanhsu))
+- yarn is out. npm is in ([@evanhsu](https://github.com/evanhsu))
+- bump ([@evanhsu](https://github.com/evanhsu))
+- version bump ([@evanhsu](https://github.com/evanhsu))
+- added scripts ([@evanhsu](https://github.com/evanhsu))
+- update app.js ([@evanhsu](https://github.com/evanhsu))
+- up ([@evanhsu](https://github.com/evanhsu))
+
+#### Authors: 1
+
+- Evan Hsu ([@evanhsu](https://github.com/evanhsu))
+
+---
+
+# v1.5.1 (Wed Sep 30 2020)
+
+#### ⚠️ Pushed to `master`
+
 - yarn is out. npm is in (evanhsu@gmail.com)
 - bump (evanhsu@gmail.com)
 - version bump (evanhsu@gmail.com)
